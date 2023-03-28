@@ -6,9 +6,11 @@ categories: reviews
 comments: false
 ---
 
-<div>
-    <img class="center-fit" src="/assets/images/stalker_review/stalker1.jpg" width="auto" height="50%" />
-</div>
+<body>
+    <div>
+        <img src="/assets/images/stalker_review/stalker1.jpg" width="auto" height="50%" />
+    </div>
+</body>
 
 > “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
 
