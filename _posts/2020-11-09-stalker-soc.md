@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Thoughts on S.T.A.L.K.E.R.: Shadow of Chernobyl"
+date: 2020-11-09
 categories: reviews
 comments: false
 ---
