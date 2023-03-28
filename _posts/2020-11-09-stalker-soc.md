@@ -9,7 +9,7 @@ comments: false
 <body>
     <div>
         <img src="/assets/images/stalker_review/stalker1.jpg" width="100%" height="auto" />
-    </div>image 
+    </div> 
 </body>
 
 > “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
@@ -25,7 +25,7 @@ S.T.A.L.K.E.R. is an open world, first person shooter.  It wouldn't exactly be c
 <body>
     <div>
         <img src="/assets/images/stalker_review/stalker3.jpg" width="100%" height="auto" />
-    </div>image 
+    </div> 
 </body>
 
 To provide some background, S.T.A.L.K.E.R. is inspired by the post-apocalyptic science fiction novel, *Roadside Picnic,* published by Russian authors Arkady and Boris Strugatsky.  Instead of "The Zone" (an anomalous area of strange space-time events and radioactivity where the game takes place) being caused by an extraterrestrial event as in *Roadside Picnic*, The Zone was created as a result of incomprehensible events taking place after the Chernobyl NPP disaster.  You play the role of a S.T.A.L.K.E.R. - a wanderer who ventures into the zone in search of high-value artifacts.  Specifically one who does not know who he really is.
@@ -41,7 +41,7 @@ I actually found that the gameplay grew on me once I settled into it.  I played 
 <body>
     <div>
         <img src="/assets/images/stalker_review/stalker2.jpg" width="100%" height="auto" />
-    </div>image 
+    </div> 
 </body>
 
 The relationship between quests/tasks given to you and associated exploration form the backbone of the S.T.A.L.K.E.R. experience.  Where you go and what you do is generally up to you.  You can spend the entire time wandering around the wasteland and discovering strange locations, artifacts, and enemies on your own time, or you can let this exploration evolve as a consequence of following questlines, both main and side.  Quests are a hit or miss.  Some lead to interesting outcomes and discoveries, while some simply were.  The main questline, from what I remember, leads you nicely through the various sections of the map in the game.
@@ -55,7 +55,7 @@ The horror of Shadow of Chernobyl was perhaps not a focal point in the initial d
 <body>
     <div>
         <img src="/assets/images/stalker_review/stalker4.jpg" width="100%" height="auto" />
-    </div>image 
+    </div> 
 </body>
 
 I remember when I was watching the video of the development team giving their thoughts on Clear Sky, they said that they wanted to make a game where it feels like you could be a part of it and live in it.  That's what this is.  There are no complex NPC dialogues and large, populated cities to explore and take in such as in Skyrim or The Witcher 3, yet you are drawn back into it again and again just like your main character is inexplicably drawn to the Chernobyl nuclear power plant reactor.  You want to see what is out there, but you also want to wire yourself back into a place that is far away from other souls to reflect on your own life and purpose in the void.  Shadow of Chernobyl is simultaneously an unnerving experience of paranoia and a panacea from the chaos of the real world.
