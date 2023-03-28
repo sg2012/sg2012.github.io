@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-### This Space
+### Delegated Generalized Space
+
+I'm Joseph.
 
 I don't care to make a website dedicated to only a singular goal.  You'll find things here that interest me and that I like creating, such as video game reviews, short stories, essays, and writings on the enneagram.
 
@@ -14,7 +16,7 @@ I began writing because the impulse arose like an undeniable truth. My intense, 
 
 Thus, my first major work *Somagenesis* began based off of particularly memorable dream imagery combined with a slew of additional lies to make it a plausible story with engaging characters and actual substance.  Not to mention bizarre descriptions of erratic megastructures and biomechanical pestilence infecting blood.
 
-My work is heavily influenced by the more existential realms of philosophy, and often has a psychological and introspective nature, probing the relationship between our own consciousness and the external world, as well as what it means to derive meaning from mortality and suffering. To continue on when death seems like a far better option. My own struggles with mental health and the questions I've faced in my life inadvertently arise and are given space to process and cycle anew through character thoughts and interactions. I don't believe these ideas are particularly groundbreaking, but my intention is that the way that they are expressed be unique and be my own.
+My work is heavily influenced by the more existential realms of philosophy, and often has a psychological and introspective nature, probing the relationship between our own consciousness and the external world, as well as what it means to derive meaning (or discover a nauseating dearth) from mortality and suffering. To continue on when death seems like a far better option. My own struggles with mental health and the questions I've faced in my life inadvertently arise and are given space to process and cycle anew through character thoughts and interactions. I don't believe these ideas are particularly groundbreaking, but my intention is that the way that they are expressed be unique and be my own.
 
 When all is said and done and my first novel is finished, my only hope is that the story of Svea, a woman haunted by her abusive past and traumatic memories can touch the heart of at least one other person in this world. And perhaps help them to realize that, even if we are tormented by unanswerable questions that would drive anyone to insanity, we can still move forward. 
 
