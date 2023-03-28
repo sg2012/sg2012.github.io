@@ -8,8 +8,8 @@ comments: false
 
 <body>
     <div>
-        <img src="/assets/images/stalker_review/stalker1.jpg" width="auto" height="50%" />
-    </div>
+        <img src="/assets/images/stalker_review/stalker1.jpg" width="50%" height="auto" />
+    </div>image 
 </body>
 
 > “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
