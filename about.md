@@ -28,4 +28,5 @@ In the meantime, you can eventually check out a Novella I've completed called *O
 
 If you like what I write and you'd like to show it by leaving a small donation, I won't stop you.  It's never expected and I will never puit ads on my website, either.
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="voidwinter" data-description="Support me on Buy me a coffee!" data-message="I'll probably use this donation to buy some obscure book or video game." data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/voidwinterhttps://www.buymeacoffee.com/voidwinter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
