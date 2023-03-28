@@ -1,7 +1,7 @@
 ---
 layout: category
-category: update
+category: reviews
 permalink: /categories/reviews/
 ---
 
-This is an example description.
+Browsing video game reviews.
