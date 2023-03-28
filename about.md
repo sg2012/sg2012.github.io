@@ -30,5 +30,5 @@ In the meantime, you can eventually check out a Novella I've completed called *O
 
 If you like what I write and you'd like to show it by leaving a small donation, I won't stop you.  You'll never see ads on my websites, either.  I fucking hate ads.
 
-<a href="https://www.buymeacoffee.com/voidwinterhttps://www.buymeacoffee.com/voidwinter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/voidwinter" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
