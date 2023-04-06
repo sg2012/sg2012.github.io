@@ -4,6 +4,7 @@ rvm:
 
 script:
   - set -e # halt script on error
+  - gem install jekyll-paginate-multiple
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site
 
