@@ -1,5 +1,5 @@
 title: Somagenesis
-owner: Joseph J.G.
+owner: Joseph J.G.dfgsdfg
 email:
 description: Reviews, essays, and thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,7 +14,7 @@ theme: minima
 
 permalink: /:year/:month/:day/:title/
 
-paginate: 1
+paginatere: 1
 paginate_category_basepath: '/categories/:name/'
 
 gems:
