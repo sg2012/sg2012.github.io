@@ -11,7 +11,7 @@
       {% if content != ""  %}
         {{content}}
       {% endif %}
-      {% for post in paginator.categories[page.category] %}
+      {% for post in paginator.posts[page.category] %}
         <div id="post-short">
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
             <h3>{{post.title}}</h3>
