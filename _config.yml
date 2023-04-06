@@ -14,7 +14,7 @@ theme: minima
 
 permalink: /:year/:month/:day/:title/
 
-paginate: 1
+paginate: 10
 
 gems:
   - jekyll-feed
