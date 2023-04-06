@@ -11,7 +11,7 @@
       {% if content != ""  %}
         {{content}}
       {% endif %}
-      {% for post in site.categories[page.category] %}
+      {% for post in paginator.categories[page.category] %}
         <div id="post-short">
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
             <h3>{{post.title}}</h3>
@@ -30,4 +30,22 @@
 		{% include footer.html %}
 	</div>
     </body>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 </html>
