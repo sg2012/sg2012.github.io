@@ -14,8 +14,6 @@ comments: false
 
 > “Мы будем делать Добро из Зла, потому что его больше не из чего делать.” - Аркадий Стругацкий
 
----
-
 Chernobyl, nuclear disasters, radiation, and post apocalyptic wastelands containing a severely dwindled human population have always interested me.  S.T.A.L.K.E.R. encapsulates all of those things.  The dark, ominous, overcast sky that looks like the curse of a deity upon this wicked world, the ravaged trees and wildlife that beget eerie silence, the sense of emptiness and peace that comes attached to the ambience of walking alone among ruins, the fear of an environment and alien lifeforms that are hostile to your existence.  It's all right here.
 
 <!--more-->
