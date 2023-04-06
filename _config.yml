@@ -16,10 +16,6 @@ permalink: /:year/:month/:day/:title/
 
 paginate: 1
 
-collections:
-  reviews:
-    permalink: /categories/reviews/
-
 gems:
   - jekyll-feed
 exclude:
