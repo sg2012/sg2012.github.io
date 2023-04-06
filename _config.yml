@@ -16,14 +16,11 @@ permalink: /:year/:month/:day/:title/
 
 paginate: 10
 
-paginate_multiple:
-  - paginate: 1
-    paginate_path: '/categories/reviews/page:num/'
-
 gems:
   - jekyll-feed
+  - jekyll-paginate-v2
 plugins:
-  - jekyll-paginate-multiple
+  - jekyll-paginate-v2
 exclude:
   - Gemfile.lock
   - vendor/bundle
