@@ -24,9 +24,8 @@ gem "html-proofer"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-paginate-categories"
 end
-
-gem "jekyll-paginate-categories", "1.0.1"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
