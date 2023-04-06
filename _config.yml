@@ -18,6 +18,7 @@ paginate: 1
 
 gems:
   - jekyll-feed
+  - jekyll-paginate-categories
 exclude:
   - Gemfile
   - Gemfile.lock
