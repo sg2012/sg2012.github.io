@@ -15,6 +15,7 @@ theme: minima
 permalink: /:year/:month/:day/:title/
 
 paginate: 1
+paginate_category_basepath: '/categories/:name/'
 
 gems:
   - jekyll-feed
