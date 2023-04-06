@@ -24,7 +24,6 @@ gems:
   - jekyll-feed
   - jekyll-paginate-multiple
 exclude:
-  - Gemfile
   - Gemfile.lock
   - vendor/bundle
 excerpt_separator: <!--more-->
