@@ -10,9 +10,7 @@
       {% if content != ""  %}
         {{content}}
       {% endif %}
-      {% assign categories = site.categories[page.category] %} 
-      {% assign sortedPosts = categories | sort: 'title' %} 
-      {% for post in sortedPosts %}
+      {% for post in site.categories[page.category] %}
         <div id="post-short">
           <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
             <h3>&#8226;{{post.title}}</h3>
