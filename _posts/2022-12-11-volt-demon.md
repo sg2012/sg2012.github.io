@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Volt Demon"
-date: 2021-01-02
+date: 2022-12-11
 categories: fiction
 comments: false
 ---
