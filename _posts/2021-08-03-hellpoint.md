@@ -12,6 +12,8 @@ comments: false
 
 It feels like an awkward trope to bring up Dark Souls in a review for a souls-like game, but I can't help doing so.  Part of me wonders if the developers of games like this are honored or if they instead become mildly nauseated when seeing another review comparing their game to their source of inspiration instead of reviewing it for what it is, floating by itself in a vacuum.
 
+<!--more-->
+
 Mostly without deviation, the behavioral pattern for a Soulsborne player holds true.
 
 A process of frustration, then hesitant neutrality, then blooming interest, and then subsequent borderline obsession that carries a player from their first Souls game until their last.  The Moon Presence allowing, the hunt begins for the next game to strike that chord that makes them feel as if they are alone within an expansive yet interconnected alien world rife with cyclical death and rebirth.
