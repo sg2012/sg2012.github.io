@@ -21,7 +21,7 @@ You are here because you find yourself in a market that is oversaturated with th
 When I remember this game, I remember the atmosphere and the artwork.  The environments.  A comparison framework is only so helpful here - Hellpoint has hints of inspiration from Dead Space, H.R. Giger, and the environmental feel of perhaps Doom 2016 and Quake in places.  But it's weird .
 
 <p align="center">
-  <img src="/assets/images/hellpoint_review/hellpoint_review/hp1.jpeg" width="100%" height="auto" />
+  <img src="/assets/images/hellpoint_review/hp1.jpeg" width="100%" height="auto" />
 </p>
 
 The feel of Hellpoint is uniquely its own, hence my comment about comparisons.  You realize this once you open up your first breach that resembles an ethereal black hole.
