@@ -24,7 +24,9 @@ The house posted was said to be around 60 years old. No one had died in it, in f
 
 Indeed, the previous residents of the house never stayed for very long, and the valuation of the house decreased exponentially as time went on despite a booming market, in danger of being torn down completely after a series of family members were harmed or portions of the house had burnt to dust, the fires started by some unknowable, non-human cause. A nameless renovator had taken it upon himself to recently buy the place and make several changes and repairs to the house in an effort to sell it for a higher value, beautified and like-new, but of course (in Henrick’s favor) he failed to eliminate the presence of the electrical aberrance.
 
-Henrick applied for a job as a junior electrical engineer in a city located almost an hour from the county the house resided in as soon as he could. After a series of interviews which he passed without a shred of hesitation or incompetence, he said goodbye to his parents and girlfriend whom he promised to maintain contact with. During a cold winter evening when the trees were barren and dusted with flecks of patterned snowflakes, he flew across the country with a large mortgage down-payment in his bank from money he’d saved during part time jobs in college. “Goodbye son… words cannot describe how proud I am of the man you’ve turned into,” his father said.
+Henrick applied for a job as a junior electrical engineer in a city located almost an hour from the county the house resided in as soon as he could. After a series of interviews which he passed without a shred of hesitation or incompetence, he said goodbye to his parents and girlfriend whom he promised to maintain contact with. During a cold winter evening when the trees were barren and dusted with flecks of patterned snowflakes, he flew across the country with a large mortgage down-payment in his bank from money he’d saved during part time jobs in college. 
+
+“Goodbye son… words cannot describe how proud I am of the man you’ve turned into,” his father said.
 
 “My baby, you let us know if you need anything at all, and don’t be shy about coming back if the going gets tough!” his mother said.
 
@@ -97,9 +99,7 @@ He sprinted to the garage of the house, the other family members becoming panick
 
 Henrick’s father came back to the kitchen with an axe and began smashing in the sides of the wall furthest from the center.  He placed his hands in the divets he’d created and began removing the sides of the drywall with cortisol-induced brute strength and anticipation.  Closer and closer, more and more wall fell.  The hairs on his neck were standing on their ends, a knot was forming in his stomach, his hands bled with splinters, cut and mangled.  Before the entire wall was removed, Henrick’s father knew that he’d never find his son.  He knew that his son had left this world and would never return.  In fact, he knew that his son had never truly been alive, even during his first days on Earth.  He was born dead.
 
-Indeed, perhaps he knew that when he first stepped in Henrick’s house after picking that lock and smelling the air.
-
-There was no more wall left: all internals were laid bare.
+Eventually, there was no more wall left: all internals were laid bare.
 
 His father, step by step, backed up to observe the results.  He raised his head at what lay before him.
 
@@ -109,7 +109,7 @@ Tears streamed down his father’s cheeks as he looked at the figure and let out
 
 “What is this!  What in God’s name is this!  This can’t be… it can’t!  The color of those eyes!”
 
-The eyes that were staring forward into oblivion, once dead and impenetrable became enlivened and they shifted, shooting their gaze in the direction of Henrick’s father.  The eyes locked in with his.  He realized that they were Henrick’s eyes.
+The eyes that were staring forward into oblivion, once dead and impenetrable became enlivened and they shifted, shooting their gaze in the direction of Henrick’s father.  The eyes locked in with his.  He realized that they were Henrick’s.
 
 In that moment, in that single flicker of the eyeballs, his father fell to his knees in horror and dismay, the crushing weight of all of the pain that his son had endured throughout his entire life falling on him at once, wringing out his insides and breaking him, shattering him irreparably at the onslaught of once former incomprehension becoming known.
 
