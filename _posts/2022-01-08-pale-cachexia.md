@@ -12,7 +12,7 @@ This VN deserves another playthrough from me. Due to life circumstances, I playe
 
 
 <p align="center">
-  <img src="/assets/images/pale_cachexia_review/pale_c4.jpg" />
+  <img src="/assets/images/pale_cachexia_review/pale_c4.jpg" width="100%" height="auto" />
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ Pale Cachexia radiates a distinctive sense of atmosphere and feeling tones that 
 It's strengths manifest in its well written dialog, gorgeous drawings, and haunting soundtrack. Beyond all of these visual illusions are its greatest strength: focus in story and presentation.
 
 <p align="center">
-  <img src="/assets/images/pale_cachexia_review/pale_c3.jpg" />
+  <img src="/assets/images/pale_cachexia_review/pale_c3.jpg" width="100%" height="auto" />
 </p>
 
 As time progresses and we become exposed to more and more fictional mediums, we feel as if the same ideas get repeated many times over in slightly different permutations. An over-saturated market. We become desensitized.
@@ -30,7 +30,7 @@ As time progresses and we become exposed to more and more fictional mediums, we 
 A common approach to mitigating this is creating ever larger and more expansive worlds, filled with numerous characters and ever increasing plot complexity.
 
 <p align="center">
-  <img src="/assets/images/pale_cachexia_review/pale_c2.jpg" />
+  <img src="/assets/images/pale_cachexia_review/pale_c2.jpg" width="100%" height="auto" />
 </p>
 
 There is a different way, a more counter-intuitive way to create something that shines in a sea of mediocrity and repetition, and it is found in this visual novel.
@@ -40,7 +40,7 @@ Simplicity, minimalism, and focus. Quality over quantity. Honing in on a strong 
 Because when all is said and done, what really captures the interests of humanity and stands the tests of time is a good story. In other words, the tale of how a deeply flawed character experiences the world they find themselves in, and how they change in the process of overcoming the difficulty the universe has thrown at them.
 
 <p align="center">
-  <img src="/assets/images/pale_cachexia_review/pale_c5.jpg" />
+  <img src="/assets/images/pale_cachexia_review/pale_c5.jpg" width="100%" height="auto" />
 </p>
 
 The story grabs you, sucks you in with its subtlety and design, and has you exercising a level of empathy you did not know existed within you. The characters become real in their personality and delicate interactions. You are able to see the pain within.
@@ -50,5 +50,5 @@ Pale Cachexia realizes this. It does away with the flashiness, the needless comp
 This fact, combined with the marvelous illustrations and music, make this a highly recommended visual novel from me. And it's a shame it's not more popular.
 
 <p align="center">
-  <img src="/assets/images/pale_cachexia_review/pale_c1.jpg" />
+  <img src="/assets/images/pale_cachexia_review/pale_c1.jpg" width="100%" height="auto" />
 </p>
