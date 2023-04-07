@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creation and Consumption"
+title:  "Pale Cachexia"
 date:   2022-01-08
-categories: essays
+categories: reviews
 comments: false
 ---
 
