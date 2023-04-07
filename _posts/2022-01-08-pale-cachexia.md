@@ -6,8 +6,6 @@ categories: reviews
 comments: false
 ---
 
-### Pale Cachexia (Visual Novel)
-
 This VN deserves another playthrough from me. Due to life circumstances, I played it in brief and sporadic chunks. It's best read in a few long stretches closer to one another, or even a single sitting if you can manage it.
 
 
