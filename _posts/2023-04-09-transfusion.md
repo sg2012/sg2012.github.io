@@ -2,7 +2,7 @@
 layout: post
 title:  "Word Transfusion"
 date: 2023-06-10
-categories: reviews
+categories: essays
 comments: false
 ---
 
