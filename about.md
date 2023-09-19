@@ -16,9 +16,9 @@ Thus, my first work *Somagenesis* began based off of particularly memorable drea
 
 My work is heavily influenced by the more existential realms of philosophy, probing the relationship between our own consciousness and reality as well as what it means to derive meaning (or discover a nauseating dearth) from suffering. My own struggles with mental health and the questions I've faced in my life inadvertently arise and are given space to process and cycle anew.
 
-When *Somagenesis* is complete amidst my full time job and unrelenting procrastination, my only hope is that the story of Svea, a woman haunted by her abusive past and traumatic memories can make at least one person other than myself think or feel something.
+When *Somagenesis* is complete, my only hope is that the story of Svea, a woman haunted by her abusive past and traumatic memories can make at least one person other than myself think or feel something.
 
-In the near future, you can check out a novella I've written called *Obstinance,* which is a first-person log account of Dr. Samantha Reeves, a neuroscientist who played a role in Svea's childhood.  I plan to post it here, as it should not spoil anything from *Somagenesis*.
+In the near future, you can check out a novella I've written called *Obstinance,* which is a first-person log account of Dr. Samantha Reeves, a neuroscientist who played a role in Svea's childhood.  I plan to post it here eventually.
 
 ### Support
 
