@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Delegated Generalized Space
 
-I don't care to make a website dedicated to only a singular goal.  You'll find things here that interest me and that I like creating, such as video game reviews, short stories, essays, and writing on the enneagram.
+You'll find things here that interest me and that I like creating, such as video game reviews, short stories, essays.
 
 ### Somagenesis
 
