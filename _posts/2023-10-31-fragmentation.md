@@ -8,6 +8,8 @@ comments: false
 
 It is now October of 2023.  Writing this, the feeling is coming up again.  That there is no point to this.  That I have nothing to say.  Nothing substantive.  The inclination comes up as I remember my past and how I felt at one point writing, and then before my finger even hits the first key, it collapses into nothingness.  I become devoid of all desire to share my thoughts.  Things are not what I thought they were.  The inside cannot be exposed to the outside.
 
+<!--more-->
+
 I'd say that pattern has characterized the past 6 months or so of my life.  Where there was once hope, there is now a void when it comes to writing.  And still, I fear that my work will never come to fruition.  But this is not as much of a concern now; the concern is now more metaphysical.  Something abrupt and unwelcomed has come about it in me, and I am incapable of controlling it.
 
 Fall has always been my favorite time of the year.  Finally, a break from the relentless beating of the sun and the heat.  And a transformation taking place in the outside world.  Coincidentally, major transformations always take place inside of me during this time.  Past autumns are the seasons that I remember most.  The memories are always more vivid and coincide with impressions of the changing colors of the leaves and the crisp, cool air.  They are linked.
