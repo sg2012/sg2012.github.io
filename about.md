@@ -22,7 +22,7 @@ In the near future, you can check out a novella I've written called *Obstinance,
 
 ### Interests
 
-My conceptual and literary interests span biohorror/biopunk, cyberhorror, colossal creatures, war, new weird, incomprehensibility, specialized operation units, overly dramatic characters, trauma, disintegration, gore, the atrocity of over-integration and reliance on technology and cybernetics, conflict with massive entities that seek to control, and self-transformation.
+My conceptual and literary interests span biohorror/biopunk, cyberhorror, colossal creatures, war, new weird, incomprehensibility, specialized operation units, overly dramatic characters, trauma, disintegration, gore, the atrocity of over-integration and reliance on technology and cybernetics, conflict with massive entities that seek to control, rebirth, actualizing, and self-transformation.
 
 ### Support
 
