@@ -22,7 +22,7 @@ In the near future, you can check out a novella I've written called *Obstinance,
 
 ### Interests
 
-My conceptual and literary interests span biohorror/biopunk, cyberhorror, colossal creatures, war, new weird, specialized operation units, overly dramatic characters, uncontained trauma spilling out, disintegration and decay, visceral transmission, gore, the atrocity of over-integration and over-reliance on technology/cybernetics, conflict with massive entities that seek to dominate, rebirth, actualizing, somatic and psyche transformation, post-apocalyptic settings, and excruciating questions that will never have an answer
+My conceptual and literary interests span biohorror/biopunk, cyberhorror, colossal creatures, war, new weird, specialized operation units, mentally ill characters, uncontained trauma spilling out, disintegration and decay, visceral transmission, gore, the atrocity of over-integration and over-reliance on technology/cybernetics, conflict with massive entities that seek to dominate, rebirth, actualizing, somatic and psyche transformation, post-apocalyptic settings, and excruciating questions that will never have an answer
 
 I like barren, once-inhabited hellscapes that are decaying.  I like the idea of a single person walking through such areas.
 
