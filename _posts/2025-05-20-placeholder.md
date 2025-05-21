@@ -12,7 +12,7 @@ All of her holes get used, and she must always be ready for him. His VR headset 
 
 They never look each other in the eye when his headset is off. He doesn’t speak much, either. He hasn’t had a proper conversation with her in a long time.
 
-She exists to provide him with holes and nothing more. She is nothing, less than garbage even. She’s on hormonal birth control even though it makes her feel even more suicidal. He doesn’t make nearly enough money from disability to support a child, yet he wants to cum inside of her because he feels like he deserves it, so he insisted on this.
+She exists to provide him with holes and this is the end of it. She is nothing, a placeholder. She’s on hormonal birth control even though it makes her feel even more suicidal. He doesn’t make nearly enough money from disability to support a child, yet he wants to cum inside of her because he feels like he deserves it, so he insisted on this.
 
 She has no idea why she still stays with him. More broken ribs would be the only thing she’d have to look forward to back home. At least he doesn’t hit her. He doesn’t rape her, either; she consents to the process somewhat - a small but significant technicality.
 
