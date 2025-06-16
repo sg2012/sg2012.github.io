@@ -16,9 +16,9 @@ She exists to provide him with holes and this is the end of it. She is nothing, 
 
 She’s on hormonal birth control even though it makes her suicidal to a greater degree than she already is. He doesn’t make nearly enough money from disability to support a child, yet he wants to cum inside of her because he feels like he deserves it, so he insisted on this.
 
-She has no idea why she still stays with him. More broken ribs would be the only thing she’d have to look forward to back home. At least he doesn’t hit her. He doesn’t rape her, either; she consents to the process somewhat - a small but significant technicality.
+At some point in the distant past, there was something significant between them; she could feel it when she held his hand.  But now, there is nothing.  She has no idea why she still stays with him. More broken ribs would be the only thing she’d have to look forward to back home. At least he doesn’t hit her. He doesn’t rape her, either; she consents to the process somewhat - a small but significant technicality.
 
-His cock stinks of garlic and fish and his cum tastes vile and infected. He makes her swallow it each time he fucks her in the mouth. She can hear the high pitched moans of his favorite character through the speakers in the headset. He seems to be enjoying himself quite a bit. Unlike with her, he can’t seem to get enough. She’s seen this particular character; in fact, he has her hanging on the wall. As he lays into her, she looks at the disproportionately feminine curves of her body, her flat, faintly ab-lined stomach, her gigantic breasts and ass and perfect face that he’s enjoying so much.
+His cock stinks of garlic and fish and his cum tastes as if it was extracted from a cadaver. He makes her swallow it each time he fucks her in the mouth. She can hear the high pitched moans of his favorite character through the speakers in the headset. He seems to be enjoying himself quite a bit. Unlike with her, he can’t seem to get enough. She’s seen this particular character; in fact, he has her hanging on the wall. As he lays into her, she looks at the disproportionately feminine curves of her body, her flat, faintly ab-lined stomach, her gigantic breasts and ass and perfect face that he’s enjoying so much.
 
 It twists her intestines and makes her feel like she’s going to vomit. It makes her cover herself. It makes her want to destroy herself.
 
@@ -36,7 +36,7 @@ She had reached that point where she felt nothing. And because she felt nothing,
 
 He was showering for perhaps the first time in a week and a half. When he walked out of the bathroom door, the bat hit him in the side of the face, caving in his orbital bone and making his eye bulge out of the socket. The second hit was delivered when he lay on the floor screaming and partially blinded. This one took out his left premolar and the entire row of front teeth with a viscious crack. The hit after this took most of the bottom teeth as well.
 
-He choked on the blood and broken little bones with their roots which had been dislodged from his skull.
+He choked.  Not just on blood, but on the calcified detritus of himself—roots, teeth, fragments of his skull.
 
 Luckily, he was still alive and thus felt pain, although his time was perhaps numbered from the brain trauma; there was no doubt some hemorrhaging at this point. In other words, she had to make this quick. It was important to make the most of the precious resources she had been granted.
 
