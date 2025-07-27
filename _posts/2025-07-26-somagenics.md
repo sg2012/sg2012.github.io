@@ -10,6 +10,8 @@ The somagenics were a line representing my own unfluctuating hope.
 
 With each vessel made anew, with the screeches of pain following the transformation of metal to flesh, glimpses of the inevitable and untimely decay of my children invaded me, shattered my own bones. 
 
+<!--more-->
+
 Yet, I continued on. 
 
 Their demise was something that I swallowed and moved on from, even if hesitantly and devastatingly, for their voices, each one of their unique expressions and the way that they set their eyes upon me and the world: all were worthy symbols of the temporary sentience inhabiting them, a consciousness that went far beyond anything I thought that I would ever be capable of. They were the children that I could never have. 
