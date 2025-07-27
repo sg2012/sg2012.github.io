@@ -2,7 +2,7 @@
 layout: post
 title:  "Somagenics"
 date:   2025-07-26
-categories: essays
+categories: fiction
 comments: false
 ---
 
