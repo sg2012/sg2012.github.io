@@ -46,4 +46,4 @@ She hoped the feces contaminated his insides.
 
 Alas, their time together was drawing to a swift end. The supposed final blow of the bat against his head induced the fencing posture in his arms and legs while he convulsed. She didn’t really enjoy the sight of this and found it rather anticlimactic, so she swung a few more times as hard as she could.
 
-The sounds of agonal breathing straining through his caved in face sounded like a deformed angel slut singing.
+The sounds of agonal breathing straining through his caved in face sounded like a malformed angel singing.
