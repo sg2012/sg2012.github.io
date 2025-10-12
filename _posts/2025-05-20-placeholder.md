@@ -30,7 +30,7 @@ He grabbed her and fucked her in the ass this time, making sure to properly posi
 
 She screamed during the assault and shit blood in the toilet after. She felt as if the stem of her brain had been severed from her spinal cord.
 
-For days after, she dissociated almost to the point of unconsciousness while he used her in all of his predictable ways.
+For days after, she dissociated almost to the point of sleep while he used her in all of his predictable ways.
 
 She had reached that point where she felt nothing. And because she felt nothing, because she no longer cared, because she had severed those strings binding her to other humans, she was finally free.
 
