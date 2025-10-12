@@ -42,7 +42,7 @@ Luckily, he was still alive and thus felt pain, although his time was perhaps nu
 
 She ripped the towel off of him, his sagging balls and cock hanging between his legs and against the backdrop of the stained tile floor. The strikes from the screwdriver were a satisfying combination of blunt force trauma and puncture wounds, and she found it fun to hit his testicles in a way that pierced them perfectly in the middle without them shifting left or right such that it was as if they were pinned to the floor by an arrow. For good measure, she also found it enlivening to ram the screwdriver up his anus at an angle. If the strange colored blood combined with shit was any indication, she had driven a few holes in his colon walls. 
 
-She hoped the feces contaminated the rest his insides.
+She hoped the feces contaminated his insides.
 
 Alas, their time together was drawing to a swift end. The supposed final blow of the bat against his head induced the fencing posture in his arms and legs while he convulsed. She didn’t really enjoy the sight of this and found it rather anticlimactic, so she swung a few more times as hard as she could.
 
