@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Etc.
 
-You'll find things here that interest me and that I like creating, such as video game reviews, short stories, essays.
+You'll find things here that interest me and that I like making, such as video game reviews, short stories, essays.
 
 ### Somagenesis
 
