@@ -14,7 +14,7 @@ My first novel, *Somagenesis*, began based off of particularly memorable dream i
 
 My work attempts to probe the relationship between our own consciousness and reality as well as what it means to derive meaning (or discover a nauseating dearth) from suffering and ruin.
 
-When *Somagenesis* is complete, my only hope is that the story of Svea, a woman haunted by her abusive past and consumed with genocidal hatred can make at least one person other than myself think or feel something.  A transmission of viscerality.
+When *Somagenesis* is complete (and it may never be because I've thought about destroying it many times), my only hope is that the story of Svea, a woman haunted by her abusive past and consumed with genocidal hatred can make at least one person other than myself think or feel something.  A transmission of viscerality.
 
 ### Interests
 
