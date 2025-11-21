@@ -12,7 +12,7 @@ Naming concepts constrains their true nature.  It brings it down to the level th
 
 <!--more-->
 
-The themes written below have appeared again and again in my own work.  It's hard to say where they exactly came from, but I seem to be attuned to them.  It's a sort of subconscious expression of patterns.
+The themes written below always rise in my writing and interests.  It's hard to say where they came from, but I seem to be innately attuned to them.  It's a sort of subconscious expression of patterns.
 
 # Concepts
 
