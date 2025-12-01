@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "World Carcass"
-date: 2024-04-12
+date: 2025-12-01
 categories: essays
 comments: false
 ---
