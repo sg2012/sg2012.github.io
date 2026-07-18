@@ -20,6 +20,6 @@ It's the death of potential, and the rebirth is likely a long ways off.  This is
 
 While a few gems manage to be forged in this hellscape, they're getting rarer than a possibility of an afterlife, or dare I say the possiblity of contentment.
 
-Those at the top can see themselves to the noose after they shake one-another's hands.
+Those at the top can see themselves to the noose.
 
 But that will never happen.  Instead, we'll disintegrate until we realize that there was once something inside of us.
