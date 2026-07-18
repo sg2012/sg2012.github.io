@@ -18,7 +18,7 @@ When *Somagenesis* is complete (and it may never be because I've thought about d
 
 ### Interests
 
-Biohorror/biopunk, cyberhorror, colossal creatures, specialized operation units, mentally ill characters, primal anger, uncontained trauma spilling out, disintegration and decay, visceral transmission, gore, the atrocity of over-integration and over-reliance on technology/cybernetics, conflict with massive entities that seek to dominate, rebirth, actualizing, somatic and psyche transformation, post-apocalyptic settings, and excruciating questions that will never have an answer.
+Biohorror/biopunk, cyberhorror, colossal creatures, specialized operation units, mentally ill characters, uncontained trauma spilling, disintegration and decay, visceral transmission, gore, the atrocity of over-integration and over-reliance on technology/cybernetics, conflict with massive entities that seek to dominate, rebirth, somatic and psyche transformation, post-apocalyptic settings, and excruciating questions that will never have an answer.
 
 I like barren, once-inhabited hellscapes that are decaying.  I like the idea of a single person walking through such areas.  I cannot stand the sight of other people.
 
